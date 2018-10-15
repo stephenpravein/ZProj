@@ -1,5 +1,5 @@
 package com.teamsankya.proj.dao;
 
-public class ProjDAIO {
+public class ProjDAO {
 
 }
