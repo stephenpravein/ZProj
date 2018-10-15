@@ -1,5 +1,5 @@
 package com.teamsankya.proj.dao;
 
-public class ProjDAO {
+public class ProjDAOHibernateImpl {
 
 }
