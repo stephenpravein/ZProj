@@ -1,6 +1,6 @@
 package com.teamsankya.proj.dto;
 
-public class ProjDTO {
+public class ProjBean {
 
 	private int id;
 	private String name;

@@ -1,5 +1,7 @@
 package com.teamsankya.proj.dao;
 
-public interface ProjDAO {
+import com.teamsankya.proj.dto.ProjBean;
 
+public interface ProjDAO {
+	public  void add(ProjBean bean);
 }
